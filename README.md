@@ -1,5 +1,5 @@
 # our first-repo-MG
-This is our very first repo in our new GitHub
+This is our very first repository(repo) in our new GitHub
 
 ## How to Use This Repo
 This repo is for learning how to use GitHub. You can see how commits work, how to navigate the GitHub interface,
